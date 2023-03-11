@@ -1,0 +1,3 @@
+return function(model)
+model:Clone().Parent = game.Players.LocalPlayer.Backpack
+end
